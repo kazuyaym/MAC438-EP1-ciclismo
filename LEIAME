@@ -1,0 +1,13 @@
+EP1 - MAC0438
+
+Felipe Túlio Pereira da Cruz --------- 7557709
+Marcos Kazuya Yamazaki --------------- 7577622
+
+Para compilar o programa, digite 'make' na pasta do programa.
+
+O EP não está completo! Não foi implementado a chance de quebrar a bicicleta
+de um ciclista a cada 4 voltas! Também, quando um ciclista sai da corrida a 
+cada volta, apenas é exibido o ciclista que está saindo, e não os trẽs últi_
+mos. De resto, está tudo ok!
+
+Para entrar no modo debug apenas coloque como quarto parâmetro a letra 'd'.
